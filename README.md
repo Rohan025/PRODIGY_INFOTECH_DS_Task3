@@ -1,2 +1,4 @@
 # PRODIGY_INFOTECH_DS_Task3
-Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+The provided code demonstrates the implementation of a decision tree classifier in Python using scikit-learn.
+It involves loading and preprocessing the data, training the classifier, making predictions, evaluating accuracy, and visualizing the decision tree.
+Additionally, it showcases the application of pruning techniques for optimizing the decision tree's performance.
